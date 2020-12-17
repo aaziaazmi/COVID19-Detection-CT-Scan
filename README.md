@@ -1,2 +1,2 @@
-# COVID19-Detection-CT-Scan
-Our Machine Learning project for detecting COVI-19 from CT Lung Scans
+Machine Learning Project by Group 39. 
+Find our code at https://github.gatech.edu/ssubramanian87/Lung-COVID-Detection
